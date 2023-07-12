@@ -1,6 +1,6 @@
 - 👋 Hi, I’m akshay
-- 👀 I’m interested in programming,modern phy and every sport
-- 🌱 I’m currently studying class 12 @ spips
+-NITT CSE 26'
+  
 
 - 📫 How to reach me - akshayvd2005@gmail.com
 
