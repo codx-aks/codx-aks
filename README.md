@@ -1,8 +1,9 @@
-- 👋 Hi, I’m akshay
+-Akshay V
 -NITT CSE 26'
   
 
-- 📫 How to reach me - akshayvd2005@gmail.com
+- Reach me at akshayvd2005@gmail.com
+- 106122011@nitt.edu
 
 
 <!---
